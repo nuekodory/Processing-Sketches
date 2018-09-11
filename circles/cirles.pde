@@ -1,4 +1,4 @@
-String SAVE_PATH = "expand_#####.tif";
+String SAVE_PATH = "screen_#####.tif";
 
 int NUMBER = 1000;                     // maximum number of circles to hold
 int INTERVAL = 100;                    // ms, milliseconds
